@@ -40,7 +40,8 @@ const Home = () => {
                 <img
                     className="homePageLogo"
                     src="/logo.png"
-                    alt="code-sync-logo"
+                    alt="CodeChill logo"
+                    // style={{height: '200px', width: '500px'}}
                 />
                 <h4 className="mainLabel">Generate new room or paste invitation ROOM ID</h4>
                 <div className="inputGroup">
@@ -77,8 +78,8 @@ const Home = () => {
             </div>
             <footer>
                 <h4>
-                    Build by &nbsp;
-                    <Link href="https://github.com/Mohitur669" target="_blank" rel="noopener noreferrer">Mohd Mohitur Rahaman</Link>
+                    <a href="https://github.com/tanishk-sarode" target="_blank" rel="noopener noreferrer">Built by Tanishk Sarode</a>
+                    
                 </h4>
             </footer>
         </div>

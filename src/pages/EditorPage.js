@@ -93,7 +93,8 @@ const EditorPage = () => {
                         <img
                             className="logoImage"
                             src="/logo.png"
-                            alt="logo"
+                            alt="CodeChill logo"
+                            style={{height: '100px', width: '200px'}}
                         />
                     </div>
                     <h3>Connected</h3>
